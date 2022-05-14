@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "33703551119",
+    "firebase_url": "https://lost-8a728-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lost-8a728",
+    "storage_bucket": "lost-8a728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33703551119:android:89aa7569ac7e11297fd0fa",
+        "android_client_info": {
+          "package_name": "com.zest.lost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33703551119-5e3vvfukecf2djqkv2pfs999tm7p2mer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMMloaI8o30Z-X-MkCdGAurjSeRpP6xU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33703551119-5e3vvfukecf2djqkv2pfs999tm7p2mer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33703551119:android:8ea5f0895ffaffa57fd0fa",
+        "android_client_info": {
+          "package_name": "com.zest.ventpost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33703551119-5e3vvfukecf2djqkv2pfs999tm7p2mer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMMloaI8o30Z-X-MkCdGAurjSeRpP6xU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33703551119-5e3vvfukecf2djqkv2pfs999tm7p2mer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
